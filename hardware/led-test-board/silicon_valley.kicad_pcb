@@ -1,0 +1,128 @@
+(kicad_pcb (version 20211014) (generator pcbnew)
+
+  (general
+    (thickness 1.6)
+  )
+
+  (paper "A4")
+  (layers
+    (0 "F.Cu" signal)
+    (31 "B.Cu" signal)
+    (32 "B.Adhes" user "B.Adhesive")
+    (33 "F.Adhes" user "F.Adhesive")
+    (34 "B.Paste" user)
+    (35 "F.Paste" user)
+    (36 "B.SilkS" user "B.Silkscreen")
+    (37 "F.SilkS" user "F.Silkscreen")
+    (38 "B.Mask" user)
+    (39 "F.Mask" user)
+    (40 "Dwgs.User" user "User.Drawings")
+    (41 "Cmts.User" user "User.Comments")
+    (42 "Eco1.User" user "User.Eco1")
+    (43 "Eco2.User" user "User.Eco2")
+    (44 "Edge.Cuts" user)
+    (45 "Margin" user)
+    (46 "B.CrtYd" user "B.Courtyard")
+    (47 "F.CrtYd" user "F.Courtyard")
+    (48 "B.Fab" user)
+    (49 "F.Fab" user)
+    (50 "User.1" user)
+    (51 "User.2" user)
+    (52 "User.3" user)
+    (53 "User.4" user)
+    (54 "User.5" user)
+    (55 "User.6" user)
+    (56 "User.7" user)
+    (57 "User.8" user)
+    (58 "User.9" user)
+  )
+
+  (setup
+    (pad_to_mask_clearance 0)
+    (pcbplotparams
+      (layerselection 0x00010fc_ffffffff)
+      (disableapertmacros false)
+      (usegerberextensions false)
+      (usegerberattributes true)
+      (usegerberadvancedattributes true)
+      (creategerberjobfile true)
+      (svguseinch false)
+      (svgprecision 6)
+      (excludeedgelayer true)
+      (plotframeref false)
+      (viasonmask false)
+      (mode 1)
+      (useauxorigin false)
+      (hpglpennumber 1)
+      (hpglpenspeed 20)
+      (hpglpendiameter 15.000000)
+      (dxfpolygonmode true)
+      (dxfimperialunits true)
+      (dxfusepcbnewfont true)
+      (psnegative false)
+      (psa4output false)
+      (plotreference true)
+      (plotvalue true)
+      (plotinvisibletext false)
+      (sketchpadsonfab false)
+      (subtractmaskfromsilk false)
+      (outputformat 1)
+      (mirror false)
+      (drillshape 1)
+      (scaleselection 1)
+      (outputdirectory "")
+    )
+  )
+
+  (net 0 "")
+
+  (gr_line (start 60.96 89.898122) (end 60.96 157.48) (layer "Dwgs.User") (width 0.25) (tstamp 060ade66-36e8-40a2-8392-cd5c761c4dc0))
+  (gr_line (start 149.86 91.372722) (end 60.96 91.372722) (layer "Dwgs.User") (width 0.25) (tstamp 076b3c70-3558-43f0-8a98-c95d73361d7e))
+  (gr_line (start 149.86 89.898122) (end 147.193 89.898122) (layer "Dwgs.User") (width 0.25) (tstamp 0929124a-9600-4f8a-8f72-7ff9f308c515))
+  (gr_arc (start 67.399064 89.475877) (mid 67.003192 89.787178) (end 66.511956 89.898122) (layer "Dwgs.User") (width 0.25) (tstamp 17dcf82b-443c-4c41-ada6-5cf21190134e))
+  (gr_line (start 144.907 85.834122) (end 118.872 85.834122) (layer "Dwgs.User") (width 0.25) (tstamp 335dfac7-dfc3-47c7-9aaf-4adfad3e79b4))
+  (gr_line (start 149.86 157.48) (end 149.86 89.898122) (layer "Dwgs.User") (width 0.25) (tstamp 33734935-3a1e-46c7-a3f4-1bb5b2b368ba))
+  (gr_line (start 60.96 157.48) (end 149.86 157.48) (layer "Dwgs.User") (width 0.25) (tstamp 5f603481-5246-4c56-ae85-96e1522100c6))
+  (gr_arc (start 96.5646 82.786122) (mid 95.756369 82.451346) (end 95.4216 81.643122) (layer "Dwgs.User") (width 0.25) (tstamp 7a02fa66-3879-4813-97ac-6bd767c0bbf0))
+  (gr_arc (start 118.872 85.834122) (mid 118.237974 85.642157) (end 117.816923 85.130737) (layer "Dwgs.User") (width 0.25) (tstamp 7e707008-5f2b-41ae-b31f-fbe11535e809))
+  (gr_line (start 149.86 91.398122) (end 60.96 91.398122) (layer "Dwgs.User") (width 0.25) (tstamp 8664c731-87ac-48a3-87de-32ead7baf318))
+  (gr_line (start 95.4216 81.643122) (end 95.4216 57.894122) (layer "Dwgs.User") (width 0.25) (tstamp 88eda35d-f489-4552-a73d-9952cf6b22ab))
+  (gr_line (start 116.078 82.786122) (end 96.5646 82.786122) (layer "Dwgs.User") (width 0.25) (tstamp a5fd68b3-06b9-43c4-ae06-a7f1683bf255))
+  (gr_arc (start 147.193 89.898122) (mid 146.384769 89.563346) (end 146.05 88.755122) (layer "Dwgs.User") (width 0.25) (tstamp ae92a891-ddb3-4128-8bfc-72155ed0ace3))
+  (gr_line (start 72.165708 83.609075) (end 67.399064 89.475877) (layer "Dwgs.User") (width 0.25) (tstamp aea19caf-2767-461b-82a6-4d095f48101f))
+  (gr_line (start 95.4216 57.894122) (end 72.4216 57.894122) (layer "Dwgs.User") (width 0.25) (tstamp b99362b0-ee24-4cb6-9c47-063702f3427a))
+  (gr_line (start 117.816923 85.130737) (end 117.133077 83.489507) (layer "Dwgs.User") (width 0.25) (tstamp bdf3f93a-705a-4b64-bfa1-e87dd427e123))
+  (gr_arc (start 72.4216 82.888319) (mid 72.355723 83.270732) (end 72.165708 83.609075) (layer "Dwgs.User") (width 0.25) (tstamp c50385a1-753e-4e1b-a2c6-74160fb955cd))
+  (gr_line (start 66.511956 89.898122) (end 60.96 89.898122) (layer "Dwgs.User") (width 0.25) (tstamp d3e0828f-686b-45e6-8a04-e33f2d348b1f))
+  (gr_line (start 146.05 88.755122) (end 146.05 86.977122) (layer "Dwgs.User") (width 0.25) (tstamp e5bcee15-f6df-4ab7-b744-d9d4138f9167))
+  (gr_arc (start 144.907 85.834122) (mid 145.715215 86.1689) (end 146.05 86.977122) (layer "Dwgs.User") (width 0.25) (tstamp e832c650-1db7-4b25-acd0-f93f311dd882))
+  (gr_line (start 72.4216 57.894122) (end 72.4216 82.888319) (layer "Dwgs.User") (width 0.25) (tstamp e8e13132-6466-4299-b7da-1aefc4820868))
+  (gr_arc (start 116.078 82.786122) (mid 116.712019 82.978091) (end 117.133077 83.489507) (layer "Dwgs.User") (width 0.25) (tstamp f8848771-ac3f-4389-8572-2d167d0764ec))
+
+  (group "" (id ab45709c-909f-4ef8-9cf9-36036aa121b1)
+    (members
+      060ade66-36e8-40a2-8392-cd5c761c4dc0
+      076b3c70-3558-43f0-8a98-c95d73361d7e
+      0929124a-9600-4f8a-8f72-7ff9f308c515
+      17dcf82b-443c-4c41-ada6-5cf21190134e
+      335dfac7-dfc3-47c7-9aaf-4adfad3e79b4
+      33734935-3a1e-46c7-a3f4-1bb5b2b368ba
+      5f603481-5246-4c56-ae85-96e1522100c6
+      7a02fa66-3879-4813-97ac-6bd767c0bbf0
+      7e707008-5f2b-41ae-b31f-fbe11535e809
+      8664c731-87ac-48a3-87de-32ead7baf318
+      88eda35d-f489-4552-a73d-9952cf6b22ab
+      a5fd68b3-06b9-43c4-ae06-a7f1683bf255
+      ae92a891-ddb3-4128-8bfc-72155ed0ace3
+      aea19caf-2767-461b-82a6-4d095f48101f
+      b99362b0-ee24-4cb6-9c47-063702f3427a
+      bdf3f93a-705a-4b64-bfa1-e87dd427e123
+      c50385a1-753e-4e1b-a2c6-74160fb955cd
+      d3e0828f-686b-45e6-8a04-e33f2d348b1f
+      e5bcee15-f6df-4ab7-b744-d9d4138f9167
+      e832c650-1db7-4b25-acd0-f93f311dd882
+      e8e13132-6466-4299-b7da-1aefc4820868
+      f8848771-ac3f-4389-8572-2d167d0764ec
+    )
+  )
+)
